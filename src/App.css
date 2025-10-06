@@ -19,6 +19,9 @@ body {
   height: 100vh;
   font-family: Roboto;
 }
+.test{
+  color:red;
+}
 .card {
   background-color: #1b1c22;
   display: flex;
